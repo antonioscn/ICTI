@@ -3,7 +3,8 @@
 <p align="center">
    Repositório criado para compartilhar templates já prontos, para serem usados em trabalhos e projetos no ICTI
    <br>
-   VAMOS CRESCER JUNTOS!!
+   !!! UTILIZE AS FERRAMENTAS DO GOOGLE PARA USAR OS TEMPLATES DA MELHOO MANEIRA POSSÍVEL !!!
+   
   
    </p>
  <p align="center">
