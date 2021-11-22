@@ -22,4 +22,7 @@ Notion| Organização individual e colaborativa| http://gg.gg/wzccj
 Discord|Comunicação|http://gg.gg/wzcbp
 
  ---
+ ## <p align="center">Entre em nosso servidor no Discord!!</p>
+  - [Servidor do ICTI](https://discord.gg/2RUwxcvuzY) [PT-BR]
+ 
 ---
