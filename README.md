@@ -1,7 +1,7 @@
 ## <p align="center">REPOSITÓRIO DO ICTI </p>
 
 <p align="center">
-   Repositório criado para compartilhar conteúdos de dsciplinas do ICTI
+   Repositório criado como parte de um trabalho acadêmico para compartilhar conteúdos de disciplinas do ICTI
    <br>
    VAMOS CRESCER JUNTOS!!
 
